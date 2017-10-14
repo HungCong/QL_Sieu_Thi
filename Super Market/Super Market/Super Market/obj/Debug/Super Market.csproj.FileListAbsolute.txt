@@ -1,1 +1,2 @@
 F:\GitHub\Quản lý siêu thị\Super Market\Super Market\Super Market\bin\Debug\Super Market.exe.config
+C:\Users\HOANGHAI\Documents\GitHub\QL_Sieu_Thi\Super Market\Super Market\Super Market\bin\Debug\Super Market.exe.config
