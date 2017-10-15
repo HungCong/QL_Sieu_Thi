@@ -1,23 +1,2 @@
-C:\Users\Hung\Documents\GitHub\Quản lý siêu thị\QL_Sieu_Thi\Super Market\Super Market\Super Market\bin\Debug\Super Market.exe.config
-C:\Users\Hung\Documents\GitHub\Quản lý siêu thị\QL_Sieu_Thi\Super Market\Super Market\Super Market\bin\Debug\Super Market.exe
-C:\Users\Hung\Documents\GitHub\Quản lý siêu thị\QL_Sieu_Thi\Super Market\Super Market\Super Market\bin\Debug\Super Market.pdb
-C:\Users\Hung\Documents\GitHub\Quản lý siêu thị\QL_Sieu_Thi\Super Market\Super Market\Super Market\bin\Debug\Microsoft.Data.ConnectionUI.xml
-C:\Users\Hung\Documents\GitHub\Quản lý siêu thị\QL_Sieu_Thi\Super Market\Super Market\Super Market\obj\Debug\Super_Market.frmDangNhap.resources
-C:\Users\Hung\Documents\GitHub\Quản lý siêu thị\QL_Sieu_Thi\Super Market\Super Market\Super Market\obj\Debug\Super_Market.frmDanhMucNhaCungCap.resources
-C:\Users\Hung\Documents\GitHub\Quản lý siêu thị\QL_Sieu_Thi\Super Market\Super Market\Super Market\obj\Debug\Super_Market.frmDanhSachHoaDonBH.resources
-C:\Users\Hung\Documents\GitHub\Quản lý siêu thị\QL_Sieu_Thi\Super Market\Super Market\Super Market\obj\Debug\Super_Market.frmLapHoaDonBanHang.resources
-C:\Users\Hung\Documents\GitHub\Quản lý siêu thị\QL_Sieu_Thi\Super Market\Super Market\Super Market\obj\Debug\Super_Market.frmMain.resources
-C:\Users\Hung\Documents\GitHub\Quản lý siêu thị\QL_Sieu_Thi\Super Market\Super Market\Super Market\obj\Debug\Super_Market.frmQuanLyChungLoaiHang.resources
-C:\Users\Hung\Documents\GitHub\Quản lý siêu thị\QL_Sieu_Thi\Super Market\Super Market\Super Market\obj\Debug\Super_Market.frmQuanLyHangHoa.resources
-C:\Users\Hung\Documents\GitHub\Quản lý siêu thị\QL_Sieu_Thi\Super Market\Super Market\Super Market\obj\Debug\Super_Market.frmQuanLyLoaiHang.resources
-C:\Users\Hung\Documents\GitHub\Quản lý siêu thị\QL_Sieu_Thi\Super Market\Super Market\Super Market\obj\Debug\Super_Market.frmQuanLyNhanVien.resources
-C:\Users\Hung\Documents\GitHub\Quản lý siêu thị\QL_Sieu_Thi\Super Market\Super Market\Super Market\obj\Debug\Super_Market.frmThemMatHang.resources
-C:\Users\Hung\Documents\GitHub\Quản lý siêu thị\QL_Sieu_Thi\Super Market\Super Market\Super Market\obj\Debug\Super_Market.frmThemNhaCC.resources
-C:\Users\Hung\Documents\GitHub\Quản lý siêu thị\QL_Sieu_Thi\Super Market\Super Market\Super Market\obj\Debug\Super_Market.frmThemNhanVien.resources
-C:\Users\Hung\Documents\GitHub\Quản lý siêu thị\QL_Sieu_Thi\Super Market\Super Market\Super Market\obj\Debug\Super_Market.Properties.Resources.resources
-C:\Users\Hung\Documents\GitHub\Quản lý siêu thị\QL_Sieu_Thi\Super Market\Super Market\Super Market\obj\Debug\Super Market.csproj.GenerateResource.Cache
-C:\Users\Hung\Documents\GitHub\Quản lý siêu thị\QL_Sieu_Thi\Super Market\Super Market\Super Market\obj\Debug\Super Market.exe
-C:\Users\Hung\Documents\GitHub\Quản lý siêu thị\QL_Sieu_Thi\Super Market\Super Market\Super Market\obj\Debug\Super Market.pdb
-C:\Users\Hung\Documents\GitHub\Quản lý siêu thị\QL_Sieu_Thi\Super Market\Super Market\Super Market\bin\Debug\DevComponents.DotNetBar2.dll
-C:\Users\Hung\Documents\GitHub\Quản lý siêu thị\QL_Sieu_Thi\Super Market\Super Market\Super Market\obj\Debug\Super Market.csprojResolveAssemblyReference.cache
-C:\Users\Hung\Documents\GitHub\Quản lý siêu thị\QL_Sieu_Thi\Super Market\Super Market\Super Market\obj\Debug\Super_Market.FrMain.resources
+F:\GitHub\Quản lý siêu thị\Super Market_Update24h.info\Super Market\Super Market\bin\Debug\Super Market.exe.config
+F:\GitHub\Quản lý siêu thị\Super Market\Super Market\Super Market\bin\Debug\Super Market.exe.config

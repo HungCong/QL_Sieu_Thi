@@ -1,1 +1,0 @@
-﻿Data Source=DESKTOP-BGK3T19;Initial Catalog=SuperMarket;Integrated Security=True
