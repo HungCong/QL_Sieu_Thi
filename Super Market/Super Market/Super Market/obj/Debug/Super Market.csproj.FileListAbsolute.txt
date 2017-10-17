@@ -7,3 +7,24 @@ C:\Users\HOANGHAI\Documents\GitHub\QL_Sieu_Thi\Super Market\Super Market\Super M
 C:\Users\Khong Minh\Documents\GitHub\QL_Sieu_Thi\Super Market\Super Market\Super Market\bin\Debug\Super Market.exe.config
 C:\Users\Duong Hung\Documents\GitHub\QL_Sieu_Thi\Super Market\Super Market\Super Market\bin\Debug\Super Market.exe.config
 C:\Users\SlowRock\Documents\GitHub\QL_Sieu_Thi\Super Market\Super Market\Super Market\bin\Debug\Super Market.exe.config
+C:\Users\SlowRock\Documents\GitHub\QL_Sieu_Thi\Super Market\Super Market\Super Market\bin\Debug\Super Market.exe
+C:\Users\SlowRock\Documents\GitHub\QL_Sieu_Thi\Super Market\Super Market\Super Market\bin\Debug\Super Market.pdb
+C:\Users\SlowRock\Documents\GitHub\QL_Sieu_Thi\Super Market\Super Market\Super Market\bin\Debug\System.Web.Services.dll
+C:\Users\SlowRock\Documents\GitHub\QL_Sieu_Thi\Super Market\Super Market\Super Market\bin\Debug\Microsoft.Data.ConnectionUI.xml
+C:\Users\SlowRock\Documents\GitHub\QL_Sieu_Thi\Super Market\Super Market\Super Market\obj\Debug\Super Market.csprojResolveAssemblyReference.cache
+C:\Users\SlowRock\Documents\GitHub\QL_Sieu_Thi\Super Market\Super Market\Super Market\obj\Debug\Super_Market.frmDangNhap.resources
+C:\Users\SlowRock\Documents\GitHub\QL_Sieu_Thi\Super Market\Super Market\Super Market\obj\Debug\Super_Market.frmDanhMucNhaCungCap.resources
+C:\Users\SlowRock\Documents\GitHub\QL_Sieu_Thi\Super Market\Super Market\Super Market\obj\Debug\Super_Market.frmDanhSachHoaDonBH.resources
+C:\Users\SlowRock\Documents\GitHub\QL_Sieu_Thi\Super Market\Super Market\Super Market\obj\Debug\Super_Market.frmLapHoaDonBanHang.resources
+C:\Users\SlowRock\Documents\GitHub\QL_Sieu_Thi\Super Market\Super Market\Super Market\obj\Debug\Super_Market.frmMain.resources
+C:\Users\SlowRock\Documents\GitHub\QL_Sieu_Thi\Super Market\Super Market\Super Market\obj\Debug\Super_Market.frmQuanLyChungLoaiHang.resources
+C:\Users\SlowRock\Documents\GitHub\QL_Sieu_Thi\Super Market\Super Market\Super Market\obj\Debug\Super_Market.frmQuanLyHangHoa.resources
+C:\Users\SlowRock\Documents\GitHub\QL_Sieu_Thi\Super Market\Super Market\Super Market\obj\Debug\Super_Market.frmQuanLyLoaiHang.resources
+C:\Users\SlowRock\Documents\GitHub\QL_Sieu_Thi\Super Market\Super Market\Super Market\obj\Debug\Super_Market.frmQuanLyNhanVien.resources
+C:\Users\SlowRock\Documents\GitHub\QL_Sieu_Thi\Super Market\Super Market\Super Market\obj\Debug\Super_Market.frmThemMatHang.resources
+C:\Users\SlowRock\Documents\GitHub\QL_Sieu_Thi\Super Market\Super Market\Super Market\obj\Debug\Super_Market.frmThemNhaCC.resources
+C:\Users\SlowRock\Documents\GitHub\QL_Sieu_Thi\Super Market\Super Market\Super Market\obj\Debug\Super_Market.frmThemNhanVien.resources
+C:\Users\SlowRock\Documents\GitHub\QL_Sieu_Thi\Super Market\Super Market\Super Market\obj\Debug\Super_Market.Properties.Resources.resources
+C:\Users\SlowRock\Documents\GitHub\QL_Sieu_Thi\Super Market\Super Market\Super Market\obj\Debug\Super Market.csproj.GenerateResource.Cache
+C:\Users\SlowRock\Documents\GitHub\QL_Sieu_Thi\Super Market\Super Market\Super Market\obj\Debug\Super Market.exe
+C:\Users\SlowRock\Documents\GitHub\QL_Sieu_Thi\Super Market\Super Market\Super Market\obj\Debug\Super Market.pdb
