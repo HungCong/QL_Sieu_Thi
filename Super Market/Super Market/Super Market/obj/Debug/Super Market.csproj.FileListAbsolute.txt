@@ -4,3 +4,4 @@ C:\Users\NTB\Documents\GitHub\QL_Sieu_Thi\Super Market\Super Market\Super Market
 =======
 C:\Users\HOANGHAI\Documents\GitHub\QL_Sieu_Thi\Super Market\Super Market\Super Market\bin\Debug\Super Market.exe.config
 >>>>>>> f91fa0885fe1f15ef463ecd4b73e30476a38e4bb
+C:\Users\Khong Minh\Documents\GitHub\QL_Sieu_Thi\Super Market\Super Market\Super Market\bin\Debug\Super Market.exe.config
