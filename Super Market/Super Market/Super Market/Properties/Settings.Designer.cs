@@ -26,8 +26,7 @@ namespace Super_Market.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=SP-47C50C180EE0\\Duongdx;AttachDbFilename=|DataDirectory|\\spMarketmgmt" +
-            ".mdf;Integrated Security=True")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=DESKTOP-BGK3T19;Initial Catalog=SuperMarket;Integrated Security=True")]
         public string spMarketmgmtConnectionString {
             get {
                 return ((string)(this["spMarketmgmtConnectionString"]));
