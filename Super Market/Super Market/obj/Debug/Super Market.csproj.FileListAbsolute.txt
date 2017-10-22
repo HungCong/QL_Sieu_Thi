@@ -2,3 +2,4 @@ F:\GitHub\Quản lý siêu thị\Super Market_Update24h.info\Super Market\Super 
 F:\GitHub\Quản lý siêu thị\Super Market\Super Market\Super Market\bin\Debug\Super Market.exe.config
 C:\Users\HOANGHAI\Documents\GitHub\QL_Sieu_Thi\Super Market\Super Market\bin\Debug\Super Market.exe.config
 C:\Users\NTB\Documents\GitHub\QL_Sieu_Thi\Super Market\Super Market\bin\Debug\Super Market.exe.config
+C:\Users\Duong Hung\Documents\GitHub\QL_Sieu_Thi\Super Market\Super Market\bin\Debug\Super Market.exe.config
